@@ -82,6 +82,7 @@ Self-heal if needed
 
 ## Step 1 — Clone Repository
 git clone https://github.com/Jmendonca144/Secureboot-Guardian.git
+
 cd secureboot-guardian
 
 
@@ -89,7 +90,9 @@ cd secureboot-guardian
 ---
 
 ## Step 2 — Install Guardian
+
 sudo chmod +x guardian.sh
+
 sudo ./guardian.sh
 
 
